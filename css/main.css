@@ -1,0 +1,28 @@
+@font-face {
+    font-family: vazir;
+    src: url(../font/Vazir.ttf);
+}
+
+body {
+    font-family: vazir !important;
+}
+.icon {
+display: inline-flex;
+border-radius: 10px;
+background-color: #891538;
+padding: 15px;
+color: white;
+}
+.icon-2 {
+    display: inline-flex;
+    border-radius: 10px;
+    background-color: #041f4e;
+    padding: 15px;
+    color: white;
+    }
+.card-color {
+    background-color:#041f4e ;
+    color: white;
+}
+
+
